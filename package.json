@@ -27,7 +27,7 @@
     "connect-mongo": "^0.7.0",
     "racer-bundle": "^0.1.1",
     "livedb-mongo": "^0.4.1",
-    "derby": "^0.6.0-alpha31"
+    "derby": "^0.6"
   },
   "author": {
     "name": "Ian Johnson",

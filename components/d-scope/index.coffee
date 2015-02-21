@@ -5,6 +5,8 @@ class Scope
   name: 'd-scope'
 
   init: ->
+    data = @model.at "data"
+    console.log "data", data.get()
 
   create: ->
 

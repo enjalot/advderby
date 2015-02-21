@@ -5,6 +5,8 @@ class Trib
   name: 'd-trib'
 
   init: ->
+    code = @model.at "code"
+    console.log "code", code.get()
 
   create: ->
 
