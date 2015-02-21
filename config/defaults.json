@@ -1,0 +1,7 @@
+{
+  "NODE_ENV": "development",
+  "PORT": 9999,
+  "MONGO_URL": "mongodb://localhost:27017/advderby",
+  "SESSION_SECRET": "3ea81ee6690d2b12f25f826615f9e89dd203fe08",
+  "SESSION_COOKIE": "b5a7de8102b5cd82b682d30bcff8e0b0cfe9dd3d"
+}

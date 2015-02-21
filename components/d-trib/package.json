@@ -1,0 +1,25 @@
+{
+  "name": "d-trib",
+  "description": "",
+  "version": "0.0.0",
+  "main": "./index.coffee",
+  "keywords": [
+    "derby",
+    "derby-component"
+  ],
+  "scripts": {
+    "test": "echo 'No tests yet!'; exit(1);"
+  },
+  "author": {
+    "name": "Ian Johnson",
+    "email": "enjalot@gmail.com"
+  },
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {},
+  "peerDependencies": {
+    "derby-jade": "*",
+    "coffee-script": "*",
+    "derby": ">= 0.6.0 < 0.7"
+  }
+}
